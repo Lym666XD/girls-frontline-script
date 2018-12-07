@@ -1,10 +1,5 @@
 # girls-frontline-script
 YMFM f*ck u  
-An eye for an eye and a tooth for a tooth  
-A safe script to complete 0-2 8-1n and 4-6  
-
-2018.12.7  
-既然你不把玩家当回事，也别怪玩家举报你    
 
 自己写的一个刷图脚本，需要分辨率为960×540  
 加入了随机位移和随机延迟，防止脚本检测  
