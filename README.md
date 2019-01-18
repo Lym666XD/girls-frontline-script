@@ -1,2 +1,5 @@
 # girls-frontline-script
-YMFM f*ck u  
+
+A script to make this game more leisure  
+
+maybe banned by carrieroperator...
